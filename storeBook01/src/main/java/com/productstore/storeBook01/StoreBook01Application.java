@@ -1,13 +1,13 @@
-package com.store.storeBook;
+package com.productstore.storeBook01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StoreBookApplication {
+public class StoreBook01Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StoreBookApplication.class, args);
+		SpringApplication.run(StoreBook01Application.class, args);
 	}
 
 }
